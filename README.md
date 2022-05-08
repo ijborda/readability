@@ -2,6 +2,8 @@
 
 Use this [minimal readability tool](https://imarijoyborda.com/readability/) to see and check that your text is not too verbose. Supports unlimited text length. Designed for researchers and writers who have long texts. 
 
+My motivation: As someone from the research field, it is easy to be carried away when writing scientific papers to the point that it becomes unnecessarily wordy. I develop this readability tool to help me check my texts and ensure that it is still readabale. Other readability tests online exists but most of them are not minimalist and some have text length limit. As a researcher who also deals with confidential data, I also have reservations on using online tools that sends our texts to third-party servers. Meanwhile, this readbaility tool I've developed runs purely on client side so privacy of text is ensured. 
+
 Link to project:[https://imarijoyborda.com/readability/](https://imarijoyborda.com/readability/). 
 
 ![Screenshot of Site - 1](assets/readme/readme-1.png)
