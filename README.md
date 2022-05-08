@@ -20,3 +20,5 @@ There are still lots that need to be improved in this web application. Some plan
 * Allow upload of texts. 
 
 Contributions are also very welcome! Just issue a pull request.
+
+## Thanks for checking it out!
