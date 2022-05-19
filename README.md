@@ -20,3 +20,11 @@ There are still lots that need to be improved in this web application. Some plan
 * Allow upload of texts. 
 
 Contributions are also very welcome! Just issue a pull request.
+
+## Thanks for checking it out!
+
+Check out my other projects:
+* [Codie | See your Codewars Stats at a Glance](https://github.com/ijborda/codie)
+* [Tic-Tac-Toe | Have fun](https://github.com/ijborda/tic-tac-toe)
+* [R Header Cleaner | Clean R headers on the Go](https://github.com/ijborda/r-header-cleaner)
+* [Cookie | Look for Recipes](https://github.com/ijborda/cookie)
