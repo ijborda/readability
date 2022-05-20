@@ -14,7 +14,7 @@ Enter the text in the text box. Click  `Submit Text` to see the result.
 The test uses the Coleman–Liau index (CLI) to calculate the grade level. The result approximates the U.S. grade level thought necessary to comprehend the text. The lowest grade level is `Before Grade 1` while the highest is `Grade 16+`. The lower the grade level is, the easier the text can be comprehended.
 
 ## How It's Made
-Tech used: HTML, CSS, and JavaScript.
+Tech used: HTML, CSS, and JavaScript. <a href="https://www.flaticon.com/free-icons/book" title="book icons">Book icons created by Smashicons - Flaticon.</a>
 
 ## Future Improvements
 There are still lots that need to be improved in this web application. Some plans are:
